@@ -1,0 +1,24 @@
+name: Move HTML Files
+
+on: [push]
+
+jobs:
+  move-html-files:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Move HTML files from Slides to docs
+      run: |
+        mkdir -p docs
+        mv Slides/*.html docs/
+    
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add docs/*.html
+        git commit -m "Move HTML files to docs folder" -a || echo "No changes to commit"
+        git push
