@@ -1,7 +1,9 @@
 /*-- scss:defaults --*/
 
+// helpful: https://quarto.org/docs/presentations/revealjs/themes.html
+
 // Custom colours and variables
-$jet: #131516;
+$jet: #4F4F4F; //#131516;
 $right-arrow: "\2192"; // Unicode character for right arrow
 $picton-blue: #00b7ff;
 $violet-red: #ff3881;
@@ -17,9 +19,9 @@ $presentation-font-size-root: 24px; //brant updated, original: 36px
 
 $presentation-heading-font: "Roboto", sans-serif !default;
 $presentation-heading-color: $jet !default;
-$presentation-heading-font-weight: 200;
-//$presentation-heading-line-height: 2;
-//$presentation-block-margin: 28px;
+$presentation-heading-font-weight: 400;
+$presentation-h1-font-size: 1.8em;
+
 
 // colors
 //$body-bg: #f0f1eb !default;
@@ -82,22 +84,26 @@ $selection-bg: #26351c !default;
 
 }
 
+.reveal h1 {
+  font-weight: 500;
+  font-size: 1em;
+}
 
 .reveal h2 {
-  font-weight: 350;
+  font-weight: 500;
   font-size: 1.4em;
 }
 
 .reveal h3 {
   color: $accent;
   font-style: italic;
-  font-weight: 350;
+  font-weight: 500;
   font-size: 0.95em;
 }
 
 .reveal h4 {
   color: $accent2;
-  font-weight: 350;
+  font-weight: 500;
   margin-top: 1.25em;
 }
 
@@ -105,6 +111,7 @@ $selection-bg: #26351c !default;
 
 .alert {
   color: $accent2;
+  font-weight: 400;
 }
 
 .fg {
@@ -243,11 +250,11 @@ $selection-bg: #26351c !default;
 // brant edits
 
 .math.inline {
-  font-size: 80%;
+  font-size: 85%;
   font-weight: 100;
 }
 .math.display {
-  font-size: 80%;
+  font-size: 85%;
   font-weight: 100;
 }
 
@@ -261,4 +268,5 @@ $selection-bg: #26351c !default;
 
 .alert-blue {
   color: $accent;
+  font-weight: 400;
 }

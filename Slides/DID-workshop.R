@@ -1,8 +1,8 @@
-# Mixtape: Minimum Wage Example Code
+# Minimum Wage Example Code
 
 library(did)
 library(BMisc)
-library(twfeweights)
+library(twfeweights) # devtools::install_github("bcallaway11/twfeweights")
 library(fixest)
 library(modelsummary)
 library(ggplot2)
