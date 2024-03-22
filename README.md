@@ -1,6 +1,5 @@
----
-title: "Difference-in-Differences Workshop for Terry Center for Business Analytics and Insights"
----
+# Difference-in-Differences Workshop for Terry Center for Business Analytics and Insights
+
 
 These are the materials for the difference-in-differences workshop for the Terry Center for Business Analytics and Insights (CBAI) at UGA
 
@@ -24,6 +23,6 @@ These are the materials for the difference-in-differences workshop for the Terry
 
 ## Additional Materials
 
-A main resource for the material from today's workshop is my DID chapter in the *Handbook of Labor, Human Resources, and Population Economics*.  The published (gated) version is available [here](https://link.springer.com/referenceworkentry/10.1007/978-3-319-57365-6_352-1).   The (ungated) draft version is available [here](https://bcallaway11.github.io/files/Callaway-Chapter-2022/main.pdf)
+A main resource for the material from today's workshop is my DID chapter in the *Handbook of Labor, Human Resources, and Population Economics*.  The published (gated) version is available [here](https://link.springer.com/referenceworkentry/10.1007/978-3-319-57365-6_352-1).   The (ungated) draft version is available [here](https://bcallaway11.github.io/files/Callaway-Chapter-2022/main.pdf).
 
 Today's material also builds on [my workshop for Mixtape Sessions](https://github.com/Mixtape-Sessions/Frontiers-in-DID).  It includes some additional, more advanced material that we did not cover today.
