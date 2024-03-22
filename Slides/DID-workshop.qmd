@@ -52,7 +52,7 @@ $\newcommand{\E}{\mathbb{E}}
   
 . . .
 
-<span class="alert">Additional Workshop Materials: </span> [https://github.com/bcallaway11/uga-cbai-workshop](https://github.com/bcallaway11/uga-cbai-workshop)
+<span class="alert">Additional Workshop Materials: </span> [https://bcallaway11.github.io/uga-cbai-workshop/](https://bcallaway11.github.io/uga-cbai-workshop/)
 
   * Slides, code, etc. for today's workshop
 
