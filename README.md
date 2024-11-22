@@ -1,17 +1,20 @@
 # Difference-in-Differences Workshop for Terry Center for Business Analytics and Insights
 
-
 These are the materials for the difference-in-differences workshop for the Terry Center for Business Analytics and Insights (CBAI) at UGA
 
 ## Slides
 
-**All slides:** [DID-workshop.html](DID-workshop.html)
+**Session 1:** [DID-workshop.html](DID-workshop.html)
+
+**Session 2:** [02_Covariates.html](02_Covariates.html)
 
 ## Empirical Application on Minimum Wage
 
 ### Code
 
-* **Full Code:** [DID-workshop.R](DID-workshop.R)
+* **Session 1:** [DID-workshop.R](DID-workshop.R)
+
+* **Session 2:** [02_Covariates.R](02_Covariates.R)
 
 ### Data
 

@@ -1,0 +1,5 @@
+TODO:
+
+* add notation about L, p, and \pi, to start of regressions part
+* w_0(X) is undefined
+
